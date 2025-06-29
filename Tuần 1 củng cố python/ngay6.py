@@ -9,7 +9,7 @@ def tinh(a, b):
 def hieu(a, b): 
     return a - b 
 #B- Package ? 
-#ví dụ trong file tuần 1 củng cố python mk học đó , trong file đó có ngay1.py ; ngay2.py ; ngay3.py :.... thì đó gọi là package .
+#Tức là mình gọi giống vidu1_ngay6.py đó được gọi là package 
 # 
 # 
 # 
