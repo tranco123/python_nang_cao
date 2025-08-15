@@ -108,8 +108,3 @@ class Dog :
 bull = Dog("BULL", 2, "RED", "BIG")
 bull.Stay("House")
 bull.Brank()
-
-
-
-
-
